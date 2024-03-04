@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ausikek
 - 👀 I’m interested in maths, physics and engineering.
 - 🌱 I’m currently learning coding and undergraduate level engineering.
-- 💞️ I’m looking to collaborate on anything!
 
 <div align="center">
   <a href="https://github.com/ausikek">
